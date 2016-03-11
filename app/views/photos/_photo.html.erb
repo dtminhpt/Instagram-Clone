@@ -1,0 +1,11 @@
+<div class="card">
+  <div class="card-block">
+    <h4 class="card-title"><%= photo.username %></h4>
+    <h6 class="card-subtitle text-muted"><%= photo.likes_count %> likes </h6>
+  </div>
+  <%= image_tag photo.url %>
+  <div class="card-block">
+    <p class="card-text"><%= photo.caption %></p>
+    <a href="#" class="btn btn-primary">Another link</a>
+  </div>
+</div>

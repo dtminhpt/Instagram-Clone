@@ -1,0 +1,14 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: sarahmgellar
+  caption: "I just went to pick up my daughter from #kindergarten and this #camel was in the parking lot. Totally normal rt?? #onlyinlosangeles"
+  created_at: 2015-11-10 19:41:51
+  likes_count: 10561
+  url: "https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/s640x640/sh0.08/e35/11849082_426726797521665_1141520805_n.jpg"
+
+two:
+  username: MyString
+  caption: MyText
+  likes_count: 1
+  url: 'https://scontent.cdninstagram.com/hphotos-xtf1/t51.2885-15/s640x640/sh0.08/e35/11380003_1646178038975946_2127607224_n.jpg'
